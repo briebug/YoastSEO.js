@@ -1,4 +1,4 @@
-### 1.0: November 18th, 2015
+### 1.0.3: November 18th, 2015
 
 #### Backwards incompatible changes
 
